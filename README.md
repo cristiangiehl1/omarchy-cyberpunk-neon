@@ -44,7 +44,7 @@ omarchy theme set "Cyberpunk Neon"
 - **GTK** (`gtk.css`), **Chromium** (`chromium.theme`), **Steam** (`steam.css`), **Vencord** (`vencord.theme.css`)
 - **Shell/tools**: Fish colors (`colors.fish`), fzf (`fzf.fish`), base palette (`colors.toml`)
 - **Neovim** (`neovim.lua`), **Zed/Aether** (`aether.override.css`, `aether.zed.json`)
-- **Wallpapers**: 6 cyberpunk backgrounds in `backgrounds/`
+- **Wallpapers**: 13 cyberpunk backgrounds in `backgrounds/`
 
 ## Waybar (manual step)
 
